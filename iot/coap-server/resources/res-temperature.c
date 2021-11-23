@@ -1,6 +1,6 @@
 #include "contiki.h"
 #include "coap-engine.h"
-#include "vib-sensor.h"
+#include "virtual-sensor.h"
 #include <stdio.h>
 
 static void res_get_handler(
